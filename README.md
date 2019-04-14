@@ -3,3 +3,6 @@
 
     >> Solution: I decided to start from scratch and copied the folder structure from the template download into my local repository and it corrected the issue.
 
+2. The second problem I ran into was adding a title cover to the image in the portfolio container
+
+    >> What I tried: 1). I tried adding an "h2" title right above the "a" element but the title appeared behind the image and did not inherite the fluid properties of the image. 2). I tried moving the "h2" element between the "a" and "img" elements and the title DID appear infront of the image but still did not inherite the fluid properties of the image.
