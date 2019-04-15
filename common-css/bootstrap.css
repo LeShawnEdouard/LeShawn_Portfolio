@@ -43,6 +43,10 @@ body {
   margin-bottom: 20px;
 }
 
+.portfolioFilter {
+  text-align:start;
+}
+
 article,
 aside,
 footer,
